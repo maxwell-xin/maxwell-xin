@@ -53,6 +53,14 @@
 
 <hr>
 
+<div align="center">
+
+![HTML5](http://resume.maxcloudapps.com/api/github)
+
+</div>
+
+<hr>
+
 ### Currently Learning 📚📖📝
 
 - 💪 Kotlin Clean Architecture
