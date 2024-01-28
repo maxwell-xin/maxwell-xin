@@ -32,7 +32,7 @@ I'm eager to contribute my skills and experience to innovative projects. Let's c
 ![HTML5](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Backend frameworks
+### Backend
 
 ![HTML5](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=laravel&logoColor=white)
@@ -68,7 +68,7 @@ I'm eager to contribute my skills and experience to innovative projects. Let's c
 ![HTML5](https://img.shields.io/badge/docker_compose-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Elastic_Search-white?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![HTML5](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github&logoColor=black)
 ![HTML5](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![HTML5](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![HTML5](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
